@@ -28,4 +28,4 @@ print("Eigen values are {} and Eigen Vectors are {}".format(eig_values,eig_vecto
 ## Output:
 ![output](Screenshot%202026-02-26%20224653.png)
 ## Result:
-Thus the Eigenvalue and Eigenvector is successfully solved using python program
+Thus the Eigenvalue and Eigenvector is successfully solved using python programm
